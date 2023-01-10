@@ -17,3 +17,5 @@
 -[Wix](https://www.wix.com/)
 
 -[Carrd](https://carrd.co/)
+
+-[Jemi](https://jemi.so/)
