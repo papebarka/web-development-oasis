@@ -24,7 +24,9 @@ Content Management System
 
 -[KeystoneJS](https://keystonejs.com/) -The Superpowered CMS & Backend API builder for Developers
 
--[Thin](https://github.com/digitallyinduced/thin-backend) - Backend
+-[Thin](https://github.com/digitallyinduced/thin-backend) - Backend API
+ 
+-[Conduit](https://github.com/ConduitPlatform/Conduit) - Backend API with batteries included
 
 
 ### SSG
