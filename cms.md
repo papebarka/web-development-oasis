@@ -16,6 +16,7 @@ Content Management System
 
 
 
+
 ### NodeJS
 
 -[Ghost](https://ghost.org/) - Open-Source Headless Publishing Platform & CMS
@@ -28,6 +29,7 @@ Content Management System
  
 -[Conduit](https://github.com/ConduitPlatform/Conduit) - Backend API with batteries included
 
+- Ghost
 
 ### SSG
 
