@@ -35,6 +35,8 @@ Content Management System
 
 -Medusa
 
+-Payload
+
 ### SSG
 
 -[Forestry](https://forestry.io/) - Headless CMS for SSGs: Hugo, NuxtJS, 11ty, Gridsome, Jekyll...
