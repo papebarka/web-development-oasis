@@ -37,6 +37,8 @@ Content Management System
 
 -Payload
 
+[Apostrophe CMS](https://github.com/apostrophecms/apostrophe)
+
 ### SSG
 
 -[Forestry](https://forestry.io/) - Headless CMS for SSGs: Hugo, NuxtJS, 11ty, Gridsome, Jekyll...
@@ -49,5 +51,15 @@ Content Management System
 
 ### Ruby On Rails
 
+Spina
+
+[Fae](https://github.com/wearefine/fae)
+
 
 ### Django
+
+[Django CMS](https://www.django-cms.org/en/)
+
+[Mezzanine CMS](https://github.com/stephenmcd/mezzanine)
+
+[Wagtail](https://wagtail.org/)
