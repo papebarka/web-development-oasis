@@ -29,8 +29,6 @@ Content Management System
  
 -[Conduit](https://github.com/ConduitPlatform/Conduit) - Backend API with batteries included
 
--Ghost
-
 -Pocketbase
 
 -Medusa
@@ -38,6 +36,8 @@ Content Management System
 -Payload
 
 [Apostrophe CMS](https://github.com/apostrophecms/apostrophe)
+
+[Tina CMS](https://github.com/tinacms/tinacms) - The Markdown CMS
 
 ### SSG
 
