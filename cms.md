@@ -39,6 +39,8 @@ Content Management System
 
 [Tina CMS](https://github.com/tinacms/tinacms) - The Markdown CMS
 
+[CosmicJS](https://github.com/cosmicjs)
+
 ### SSG
 
 -[Forestry](https://forestry.io/) - Headless CMS for SSGs: Hugo, NuxtJS, 11ty, Gridsome, Jekyll...
