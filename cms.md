@@ -29,7 +29,7 @@ Content Management System
  
 -[Conduit](https://github.com/ConduitPlatform/Conduit) - Backend API with batteries included
 
--Pocketbase
+-[Pocketbase](https://pocketbase.io/)
 
 -Medusa
 
