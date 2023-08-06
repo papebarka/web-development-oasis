@@ -23,6 +23,8 @@ Content Management System
 
 -[Strapi](https://strapi.io/) - Open-Source Headless CMS & Backend API builder
 
+-[Directus](https://directus.io/)
+
 -[KeystoneJS](https://keystonejs.com/) -The Superpowered CMS & Backend API builder for Developers
 
 -[Thin](https://github.com/digitallyinduced/thin-backend) - Backend API
