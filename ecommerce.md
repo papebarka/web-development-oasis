@@ -10,6 +10,8 @@
 
 [Evershop](https://github.com/evershopcommerce/evershop)
 
+[Vendure](https://github.com/vendure-ecommerce/vendure)
+
 #### Ruby On Rails
 
 [Spree](https://github.com/spree/spree)
